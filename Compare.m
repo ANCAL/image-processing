@@ -1,4 +1,4 @@
-Enter file contents herefunction varargout = Compare(varargin)
+function varargout = Compare(varargin)
 % COMPARE MATLAB code for Compare.fig
 %      COMPARE, by itself, creates a new COMPARE or raises the existing
 %      singleton*.
